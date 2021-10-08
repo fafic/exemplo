@@ -6,9 +6,12 @@
 package br.edu.fafic.es;
 
 /**
- *
  * @author Luciano
  */
 public class Calculadora {
-    
+
+    public int sum(int a, int b){
+        return a + b;
+    }
+
 }
